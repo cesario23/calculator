@@ -56,4 +56,10 @@ button{
     cursor: pointer;
 
 }
+#equal-sign{
+    flex: 5;
+}
 
+#division-sign{
+    background-color: blue;
+}
